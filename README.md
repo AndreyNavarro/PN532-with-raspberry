@@ -7,3 +7,5 @@ Implementación de prototipo de pago utilizando NFC.
 Creación de una interfaz amigable con el usuario. Uso del modulo TKINTER. Pantalla tactil 7".
 Implementación de hilos de procesamiento, modulo threading.
 Modulos para python 3.
+
+El funcionamiento del sistema es mostrado al acceder al siguiente url https://www.youtube.com/watch?v=7PI-S-JScaw&t=6s
